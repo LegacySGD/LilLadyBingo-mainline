@@ -1,0 +1,43 @@
+{
+	"version": "3.2.2016-AM",
+	"ui":{
+		"balance":"余额",
+		"wager":"单注金额",
+		"demo":"演示",
+		"wins":"奖金",
+		"demoWins":"演示奖励",
+		"buy":"购买",
+		"try":"试玩",
+		"drawOne":"抽一个球",
+		"drawAll":"抽全部球",
+		"exit":"退出",
+		"playForMoney":"现金\n游戏"
+	},
+	"game":{
+		"gameModePlaqueText":"选择你的游戏方式",
+		"gameModePlaqueAuto":"自动翻牌",
+		"gameModePlaqueManual":"手动翻牌",
+		"statusBar":{
+			"goodLuck":"好运",
+			"ready":"准备",
+			"ballsLeft":"{0} 剩余的彩球",
+			"oneBallLeft":"{0} 剩余的彩球",
+			"drawComplete":"完成抽球",
+			"ticketCost":"请选择单注金额"
+		}
+	},
+	"help":{
+		"title":"游戏规则",
+		"text":"点击抽一个球可以抓取一个彩球绘制在球板上.\n\n点击抽全部球可以连续将彩球绘制在球板上.\n\n参考奖励模板，当绘制出奖励模板的图案时会赢得对应的奖金."
+	},
+	"result":{
+		"congratulations":"恭喜你!",
+		"winText":"你赢了 {0}",
+		"demoWinText":"你能赢的 {0}",
+		"sorry":"抱歉，你输了.",
+		"loseText":"祝你下次好运"
+	},
+	"error":{
+		"errorCode":"错误代码: {0}\n\n{1}\n\n{2}"
+	}
+}

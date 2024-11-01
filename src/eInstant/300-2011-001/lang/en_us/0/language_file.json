@@ -1,0 +1,43 @@
+{
+	"version": "3.2.2016-AM",
+	"ui":{
+		"balance":"BALANCE0",
+		"wager":"TICKET COST0",
+		"demo":"DEMO0",
+		"wins":"WIN0",
+		"demoWins":"DEMO WIN0",
+		"buy":"BUY0",
+		"try":"TRY0",
+		"drawOne":"DRAW ONE0",
+		"drawAll":"DRAW ALL0",
+		"exit":"EXIT0",
+		"playForMoney":"PLAY FOR\nMONEY0"
+	},
+	"game":{
+		"gameModePlaqueText":"SELECT HOW YOU WANT TO PLAY0",
+		"gameModePlaqueAuto":"MARK THE CARD AUTOMATICALLY0",
+		"gameModePlaqueManual":"MARK THE CARD YOURSELF0",
+		"statusBar":{
+			"goodLuck":"GOOD LUCK0",
+			"ready":"READY0",
+			"ballsLeft":"{0} BALLS LEFT0",
+			"oneBallLeft":"{0} BALL LEFT0",
+			"drawComplete":"DRAW COMPLETE0",
+			"ticketCost":"SELECT YOUR TICKET COST0"
+		}
+	},
+	"help":{
+		"title":"HOW TO PLAY0",
+		"text":"Click DRAW ONE to draw the bingo balls one at a time.\n\nClick DRAW ALL, and the game will draw the bingo balls consecutively.\n\nComplete a winning pattern and win the prize for that pattern.0"
+	},
+	"result":{
+		"congratulations":"CONGRATULATIONS!0",
+		"winText":"YOU HAVE WON {0}0",
+		"demoWinText":"YOU COULD HAVE WON {0}0",
+		"sorry":"SORRY, YOU HAVE NOT WON.0",
+		"loseText":"BETTER LUCK NEXT TIME0"
+	},
+	"error":{
+		"errorCode":"ERROR CODE: {0}\n\n{1}\n\n{2}0"
+	}
+}

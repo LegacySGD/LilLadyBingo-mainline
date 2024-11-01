@@ -1,0 +1,43 @@
+{
+	"version": "3.2.2016-AM",
+	"ui":{
+		"balance":"SOLDE",
+		"wager":"COÛT DU BILLET",
+		"demo":"MODE ARGENT FICTIF",
+		"wins":"GAIN",
+		"demoWins":"GAINS ARGENT FICTIF",
+		"buy":"ACHETER",
+		"try":"ESSAYER",
+		"drawOne":"PIGER UNE",
+		"drawAll":"PIGER TOUTES",
+		"exit":"QUITTER",
+		"playForMoney":"MODE\nARGENT RÉEL"
+	},
+	"game":{
+		"gameModePlaqueText":"CHOISISSEZ VOTRE FAÇON DE JOUER",
+		"gameModePlaqueAuto":"MARQUER LA CARTE AUTOMATIQUEMENT",
+		"gameModePlaqueManual":"MARQUER LA CARTE MOI-MÊME",
+		"statusBar":{
+			"goodLuck":"BONNE CHANCE",
+			"ready":"PRÊT",
+			"ballsLeft":"{0} BOULES RESTANTES",
+			"oneBallLeft":"{0} BOULE RESTANTE",
+			"drawComplete":"TIRAGE TERMINÉ",
+			"ticketCost":"CHOISISSEZ LE COÛT DU BILLET"
+		}
+	},
+	"help":{
+		"title":"COMMENT JOUER",
+		"text":"Cliquez sur PIGER UNE pour piger les boules de bingo une à la fois.\n\nCliquez sur PIGER TOUTES, et le jeu effectuera les piges l'une après l'autre.\n\nComplétez un motif gagnant et gagnez le lot pour ce motif."
+	},
+	"result":{
+		"congratulations":"FÉLICITATIONS!",
+		"winText":"VOUS AVEZ GAGNÉ {0}",
+		"demoWinText":"VOUS AURIEZ PU GAGNER {0}",
+		"sorry":"DÉSOLÉ, VOUS N'AVEZ PAS GAGNÉ.",
+		"loseText":"MEILLEURE CHANCE LA PROCHAINE FOIS"
+	},
+	"error":{
+		"errorCode":"CODE D\u2019ERREUR\u00a0: {0}\n\n{1}\n\n{2}"
+	}
+}
